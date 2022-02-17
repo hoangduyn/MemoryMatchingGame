@@ -1,0 +1,23 @@
+﻿Hướng dẫn chơi game :
+
+1/ Nhập tên và bắt đầu từ màn 1, hoàn thành màn chơi bằng cách tìm ra những cặp hình giống nhau trong mảng bằng
+cách lật chúng lên trong khoảng thời gian quy định .
+2/ Có 3 màn chơi chính, các màn chơi sẽ mở khóa lần lượt sau khi khi bạn hoàn thành màn trước đó .
+
+3/ Riêng chế độ Custom, bạn có thể tùy chọn số lượng hình trong mảng để chơi (Nằm trong khoảng quy định).
+
+4/ Ở màn 3, trong khi chơi bạn có thể sẽ gặp các hiệu ứng đặc biệt tác động đến thời gian chơi của bạn như sau :
+ 
+ + Ice : Làm thời gian trôi chậm hơn trong 7.5 giây
+ + Fire : Làm thời gian chạy nhanh hơn trong 10 giây 
+ + Stop Time : Làm ngưng đọng thời gian trong 5 giây
+ + Heir : Làm biến mất các hình cùng loại trong mảng (Tính năng tạm thời chưa ra mắt)
+ + Vision : Cho thấy tất cả các hình còn lại trong vòng 1 giây (Tính năng tạm thời chưa ra mắt)
+
+5/ Sau khi hoàn thành màn 1, tính năng HighScore sẽ xuất hiện bên trên góc phải giao diện menu.
+
+6/ Ba người chơi có điểm cao nhất sẽ được ghi danh tại Hall Of Fame (HighScore)
+
+7/ Dấu "?" bên dưới góc phải giao diện menu là hướng dẫn của trò chơi.
+
+8/ Nếu bạn chưa gặp tất cả các hiệu ứng trong màn 3 thì bạn vẫn có thể thử lại trong lần chơi mới .
